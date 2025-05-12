@@ -1,1 +1,38 @@
+Instituto Nacional de Estadísticas (INE) – Resumen Ejecutivo del Manual SGSI
+Versión: 1.0
+Fecha: Mayo 2025
+
+----------------------------------------
+1. Introducción
+El SGSI del INE protege los activos de información críticos frente a amenazas internas y externas, garantizando confidencialidad, integridad y disponibilidad. Alineado con ISO/IEC 27001:2022, NIST SP 800-53 y legislación chilena (Ley 19.628 y Ley 21.663).
+
+2. Objetivos
+- Proteger la información estadística del país.
+- Prevenir incidentes de seguridad.
+- Cumplir con las normativas vigentes.
+- Promover una cultura institucional de seguridad.
+
+3. Alcance
+Incluye procesos, personas, tecnología y datos vinculados a recolección, procesamiento, almacenamiento y publicación de estadísticas. Abarca todo el personal y sistemas del INE, incluyendo oficinas regionales.
+
+🏛️ 4. Organización de la Seguridad
+- Gobernanza dirigida por la Dirección Nacional.
+- Implementación técnica a cargo de Subdirección TIC y Subdep. de Ciberseguridad.
+- Comité de Seguridad como órgano rector.
+- Coordinación con CSIRT Gobierno y CPLT.
+
+5. Inventario y Clasificación de Activos
+Clasificación por criticidad (Crítico, Alto, Medio) y por tipo (datos, software, hardware, personas, documentación). Incluye microdatos, sistemas como SIEME, portales, redes, tablets y personal clave.
+
+⚠6. Análisis de Riesgos
+Riesgos evaluados según probabilidad e impacto. Riesgos críticos: acceso no autorizado, ransomware, phishing. Riesgos tratados con controles específicos y reevaluación de riesgo residual.
+
+🛡7. Controles de Seguridad
+Controles técnicos (MFA, cifrado, WAF), organizativos (capacitación, políticas), procedimentales (backups, gestión de incidentes). Todos basados en estándares ISO/NIST/CIS.
+
+8. Políticas y Procedimientos
+Incluye: control de accesos, respaldo, gestión de incidentes, clasificación de información, capacitación. Aplicables a funcionarios y terceros. Versión oficial publicada en intranet.
+
+9. Gestión de Incidentes
+Proceso estructurado: detección, contención, análisis, recuperación y lecciones aprendidas. Roles claros y registro obligatorio en sistema institucional. Coordinación con CSIRT y
 
